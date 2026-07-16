@@ -17,6 +17,7 @@
 </div>
 
 ---
+<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/33b281ac-2e7d-4748-8bfc-bc4042bbeef9" />
 
 ## What is Tabby?
 
